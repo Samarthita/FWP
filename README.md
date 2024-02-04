@@ -1,3 +1,3 @@
 # Coming Soon
 
-The code will updated soon!
+The code will be updated soon!
